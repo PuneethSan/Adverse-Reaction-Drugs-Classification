@@ -1,0 +1,2 @@
+# Adverse-Reaction-Drugs-Classification
+This project is about classifying twitter tweets using NLP tools. Pharmacovigilance identifies ADRs (adverse drug reactions) after a drug’s release. This model will identify ADR detection in social media. It would greatly help the researcher if they able to automate the segmentation of Tweet into either ADR or NONADR, on the basis of Drug, Symptom and Effect mentioned in future.
